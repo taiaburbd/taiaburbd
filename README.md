@@ -20,7 +20,7 @@
 ## Connect with Me
 [![LinkedIn][LinkedIn-shield]][LinkedIn-url]
 
-<!-- Links -->
+
 [LinkedIn-shield]: https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin
 [LinkedIn-url]: [Your LinkedIn URL]
 
