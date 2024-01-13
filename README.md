@@ -12,7 +12,8 @@
 - ⚡ Fun fact: [Interesting Fact About You].
 -->
 ## Technologies and Tools
-[![]([https://img.shields.io/badge/Tool-Name-blue](https://flask.palletsprojects.com/))](F)
+[![](https://img.shields.io/badge/Tool-Name-blue)]([Tool-Link](https://flask.palletsprojects.com))
+
 <!--
 ## Featured Projects
 - [Project Name](Link to Project) - Brief Description
