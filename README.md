@@ -10,10 +10,10 @@
 - 📫 How to reach me: [Your Contact Information].
 - 😄 Pronouns: [Your Pronouns].
 - ⚡ Fun fact: [Interesting Fact About You].
-
+-->
 ## Technologies and Tools
-[![](https://img.shields.io/badge/Tool-Name-blue)](Tool-Link)
-
+[![Unet](https://img.shields.io/badge/Tool-Name-blue)](Tool-Link)
+<!--
 ## Featured Projects
 - [Project Name](Link to Project) - Brief Description
 
