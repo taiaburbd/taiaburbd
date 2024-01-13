@@ -30,7 +30,7 @@
 
 ## Deep Learning
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Segmentation Model](https://img.shields.io/badge/Segmentation%20Model-34D058?style=for-the-badge)](URL-for-segmentation-model)
+[![Segmentation Model](https://img.shields.io/badge/Segmentation%20Model-34D058?style=for-the-badge)]([URL-for-segmentation-model](https://github.com/qubvel/segmentation_models))
 
 ## Web Application Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
