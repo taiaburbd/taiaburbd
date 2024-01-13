@@ -1,4 +1,4 @@
-# Hi there, I'm Taiabur Rahman👋
+# Hi there, I'm Taiabur👋
 
 ## About Me
 - 🎓 I'm currently studying Erasmus Mundus join Master's program in Medical Imaging and Application (MAIA).
