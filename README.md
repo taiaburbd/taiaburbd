@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Taiabur Rahman👋
 
-<!--
-**taiaburbd/taiaburbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm currently studying Erasmus Mundus join Master's program in Medical Imaging and Application (MAIA).
+- 💻 I'm passionate about various aspects of Medical Imaging, including classification, segmentation, registration, and landmark identification. 
+- 👯 I’m looking to collaborate on innovative healthcare technology projects, focusing on areas like AI-driven diagnostics, telemedicine solutions, and patient data analysis.
+<--
+- 🤔 I’m looking for help with [Something You Need Help With].
+- 💬 Ask me about [Topics You're Comfortable Discussing].
+- 📫 How to reach me: [Your Contact Information].
+- 😄 Pronouns: [Your Pronouns].
+- ⚡ Fun fact: [Interesting Fact About You].
 
-Here are some ideas to get you started:
+## Technologies and Tools
+[![](https://img.shields.io/badge/Tool-Name-blue)](Tool-Link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Featured Projects
+- [Project Name](Link to Project) - Brief Description
+
+## Connect with Me
+[![LinkedIn][LinkedIn-shield]][LinkedIn-url]
+
+<!-- Links -->
+[LinkedIn-shield]: https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin
+[LinkedIn-url]: [Your LinkedIn URL]
+
 -->
