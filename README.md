@@ -4,7 +4,7 @@
 - 🎓 I'm currently studying Erasmus Mundus join Master's program in Medical Imaging and Application (MAIA).
 - 💻 I'm passionate about various aspects of Medical Imaging, including classification, segmentation, registration, and landmark identification. 
 - 👯 I’m looking to collaborate on innovative healthcare technology projects, focusing on areas like AI-driven diagnostics, telemedicine solutions, and patient data analysis.
-<--
+<!--
 - 🤔 I’m looking for help with [Something You Need Help With].
 - 💬 Ask me about [Topics You're Comfortable Discussing].
 - 📫 How to reach me: [Your Contact Information].
