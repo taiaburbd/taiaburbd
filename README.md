@@ -55,8 +55,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![taiaburbd's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiaburbd&show_icons=true&theme=radical&hide=issues,contribs)
+<p>
+  ![taiaburbd's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiaburbd&show_icons=true&theme=radical&hide=issues,contribs)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiaburbd&layout=compact&theme=radical)
+</p>
 
 
 <!--
