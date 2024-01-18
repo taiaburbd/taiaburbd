@@ -56,6 +56,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![taiaburbd's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiaburbd&show_icons=true&theme=radical&hide=issues,contribs)
+
+
 <!--
 ## Featured Projects
 - [Project Name](Link to Project) - Brief Description
