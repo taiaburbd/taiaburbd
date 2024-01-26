@@ -61,6 +61,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiaburbd&layout=compact&theme=radical)
 
 ![taiaburbd's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=taiaburbd&theme=react-dark&bg_color=20232a&hide_border=true)
+
+![taiaburbd's GitHub stats](https://github-trophies.vercel.app/?username=taiaburbd&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)
 </p>
 
 <!--
