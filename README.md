@@ -64,7 +64,7 @@
 
 ![taiaburbd's GitHub stats](https://github-trophies.vercel.app/?username=taiaburbd&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)
 </p>
-[![Taiaburbd's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2909870)](https://stackoverflow.com/users/2909870/taiabur-rahman)
+![[Taiaburbd's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2909870)](https://stackoverflow.com/users/2909870/taiabur-rahman)
 
 <!-- ## Featured Projects
 - [Project Name](Link to Project) - Brief Description -->
