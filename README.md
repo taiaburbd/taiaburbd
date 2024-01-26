@@ -60,7 +60,9 @@
   ![taiaburbd's GitHub stats](https://github-readme-stats.vercel.app/api?username=taiaburbd&show_icons=true&theme=radical&hide=issues,contribs)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiaburbd&layout=compact&theme=radical)
 </p>
-
+<p>
+  ![Top Langs](https://github-readme-activity-graph.vercel.app/graph?username=taiaburbd&theme=react-dark&bg_color=20232a&hide_border=true)
+</p>
 
 <!--
 ## Featured Projects
