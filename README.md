@@ -55,6 +55,7 @@ I develop machine learning models and build software modules, turning ideas into
 
 ### Data & ML Platforms
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black)
 
 ### Web Development
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -93,7 +94,7 @@ I develop machine learning models and build software modules, turning ideas into
 
 ## Languages
 
-🇬🇧 English | 🇧🇩 Bengali | 🇫🇷 French (beginner) | 🇨🇳 Chinese (basic academic)
+🇬🇧 English | 🇧🇩 Bengali | 🇫🇷 French (A2) | 🇨🇳 Chinese (basic academic)
 
 ---
 ## GitHub Stats
